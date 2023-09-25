@@ -1,0 +1,9 @@
+.SideBar{
+  color: black;
+  background-color: yellow;
+  border: 2px solid blue;
+  display: flex;
+  justify-content: center;
+  width: 20%;
+  height: 100vh;
+}

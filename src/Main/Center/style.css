@@ -1,0 +1,9 @@
+.Center{
+  color: black;
+  background-color: yellow;
+  border: 2px solid blue;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
